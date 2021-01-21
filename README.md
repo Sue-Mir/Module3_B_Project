@@ -9,7 +9,7 @@ The target to predict was modelling which predictors influenced a positive net c
 
 ![header](Process_Diagram_1.png)
 
-## Decision Trees / Ensembel Methods Model Process Overview
+## Decision Trees / Ensemble Methods - Model Process Overview
 ![header](Process_Diagram_2.png)
 
 
