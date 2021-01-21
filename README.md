@@ -7,10 +7,10 @@ The data analysed were metrics extracted from annual SEC 10K fillings (2012-2016
 
 The target to predict was modelling which predictors influenced a positive net cash flow for each company listed.  This was investigated through Decision Tree and Ensemble Methods.
 
-![header](Process_Diagram1.png)
+![header](Process_Diagram_1.png)
 
 # Model Process Overview
-![header](Process_Diagram2.png)
+![header](Process_Diagram_2.png)
 
 
 Created by Sue Mir / Flatiron Data Science 
