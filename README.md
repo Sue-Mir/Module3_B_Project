@@ -1,11 +1,16 @@
 
-# Module 3 Project - Decision Trees and Ensemble Methods
+# Classification model which investigates through Decision Tree and Ensemble Methods which features influenced a positive net cash flow companies listed with annual SEC 10K filings 
 
-The main goal of this project is to create a classification model. 
+# Main Project Files
 
 The data analysed were metrics extracted from annual SEC 10K fillings (2012-2016), enough to derive most of popular fundamental indicators.  Prices were fetched from Yahoo Finance, fundamentals are from Nasdaq Financials, extended by some fields from EDGAR SEC databases.
 
-The target to predict was modelling which predictors influenced a positive net cash flow for each company >listed.  This was investigated through Decision Tree and Ensemble Methods.
+The target to predict was modelling which predictors influenced a positive net cash flow for each company listed.  This was investigated through Decision Tree and Ensemble Methods.
+
+![header](Process_Diagram1.png)
+
+# Model Process Overview
+![header](Process_Diagram2.png)
 
 
 Created by Sue Mir / Flatiron Data Science 
