@@ -1,5 +1,5 @@
 
-# Classification model which investigates through Decision Tree and Ensemble Methods which features influenced a positive net cash flow companies listed with annual SEC 10K filings 
+# Classification model which investigates through Decision Tree and Ensemble Methods which features influenced a positive net cash flow for companies listed with annual SEC 10K filings 
 
 # Main Project Files
 
