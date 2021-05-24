@@ -13,5 +13,5 @@ The target to predict was modelling which predictors influenced a positive net c
 ![header](Process_Diagram_2.png)
 
 
-Created by Sue Mir / Flatiron Data Science 
+Created by / Flatiron Data Science 
 07/May/2020
